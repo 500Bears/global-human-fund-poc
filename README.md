@@ -83,8 +83,4 @@ If you'd like to contribute directly to this repository:
 
 This proof of concept was created as part of a discussion on potential future global economic systems and the role of AI in society. It draws inspiration from various universal basic income proposals and global cooperation initiatives.
 
-## Contact
-
-[Your Name or Username] - [Your Email or GitHub profile]
-
-Project Link: [https://github.com/yourusername/global-human-fund-poc](https://github.com/yourusername/global-human-fund-poc)
+Project Link: [https://github.com/500Bears/global-human-fund-poc](https://github.com/500Bears/global-human-fund-poc)
