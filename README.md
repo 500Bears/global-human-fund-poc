@@ -1,4 +1,5 @@
 # Global Human Fund Proof of Concept
+![earth-sunrise-3840x2160-12523](https://github.com/user-attachments/assets/a95aa3fa-3975-4503-91d4-953aaff5cd1d)
 
 ## Overview
 
